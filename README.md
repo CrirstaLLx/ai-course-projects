@@ -6,10 +6,10 @@ A collection of university projects exploring classic AI and machine learning al
 
 | # | Project | Algorithms | Description |
 |---|---------|-----------|-------------|
-| 01 | [Traveling Salesman Problem](./01-traveling-salesman) | Genetic Algorithm, Tabu Search, Simulated Annealing | Finding near-optimal routes through 20–40 randomly placed cities |
+| 01 | [Traveling Salesman Problem](./01-traveling-salesman-problem) | Genetic Algorithm, Tabu Search, Simulated Annealing | Finding near-optimal routes through 20–40 randomly placed cities |
 | 02 | [Zen Garden](./02-zen-garden) | Evolutionary Algorithm | Simulating a monk raking sand into straight rows around obstacles |
-| 03 | [Clustering (k-means & divisive)](./03-clustering-kmeans-divisive) | k-means (centroid), k-means (medoid), Divisive clustering | Clustering ~40,000 2D points into groups with bounded intra-cluster spread |
-| 04 | [Clustering (agglomerative)](./04-clustering-agglomerative) | Agglomerative clustering (centroid & medoid) | Bottom-up hierarchical clustering with an optimized distance matrix |
+| 03 | [Clustering (k-means & divisive)](./03-clustering-kmeans) | k-means (centroid), k-means (medoid), Divisive clustering | Clustering ~40,000 2D points into groups with bounded intra-cluster spread |
+| 04 | [Clustering (agglomerative)](./04-clustering-hierarchical) | Agglomerative clustering (centroid & medoid) | Bottom-up hierarchical clustering with an optimized distance matrix |
 | 05 | [Crypto Price Classification](./05-crypto-classification) | LSTM / GRU / 1D-CNN / Transformer | Predicting next-day price direction from historical time series |
 | 06 | [Backpropagation from Scratch](./06-backpropagation) | Custom NumPy implementation (no autograd) | Modular feedforward network trained on AND / OR / XOR |
 
