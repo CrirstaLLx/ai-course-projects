@@ -6,7 +6,7 @@ A collection of university projects exploring classic AI and machine learning al
 
 | # | Project | Algorithms | Description |
 |---|---------|-----------|-------------|
-| 01 | [Traveling Salesman Problem](./01-traveling-salesman-problem) | Genetic Algorithm, Tabu Search, Simulated Annealing | Finding near-optimal routes through 20–40 randomly placed cities |
+| 01 | [Traveling Salesman Problem](./01-travelling-salesman-problem) | Genetic Algorithm, Tabu Search, Simulated Annealing | Finding near-optimal routes through 20–40 randomly placed cities |
 | 02 | [Zen Garden](./02-zen-garden) | Evolutionary Algorithm | Simulating a monk raking sand into straight rows around obstacles |
 | 03 | [Clustering (k-means & divisive)](./03-clustering-kmeans) | k-means (centroid), k-means (medoid), Divisive clustering | Clustering ~40,000 2D points into groups with bounded intra-cluster spread |
 | 04 | [Clustering (agglomerative)](./04-clustering-hierarchical) | Agglomerative clustering (centroid & medoid) | Bottom-up hierarchical clustering with an optimized distance matrix |
